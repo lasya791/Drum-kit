@@ -16,25 +16,25 @@ h1 {
 }
 
 .A {
-  background-image: url(./images/tom1.png);
+  background-image: url(./tom1.png);
 }
 .B {
-  background-image: url(./images/tom2.png);
+  background-image: url(./tom2.png);
 }
 .C {
-  background-image: url(./images/tom3.png);
+  background-image: url(./tom3.png);
 }
 .D {
-  background-image: url(./images/tom4.png);
+  background-image: url(./tom4.png);
 }
 .E {
-  background-image: url(./images/snare.png);
+  background-image: url(./snare.png);
 }
 .F{
-  background-image: url(./images/crash.png);
+  background-image: url(./crash.png);
 }
 .G {
-  background-image: url(./images/kick.png);
+  background-image: url(./kick.png);
 }
 
 .pressed {
