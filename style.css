@@ -16,7 +16,7 @@ h1 {
 }
 
 .A {
-  background-image: url(tom1.png);
+  background-image: url("tom1.png");
 }
 .B {
   background-image: url(./tom2.png);
